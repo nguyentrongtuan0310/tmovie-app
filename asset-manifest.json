@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tmovie-app/static/css/main.a0a7ad6b.css",
+    "main.js": "/tmovie-app/static/js/main.96f24dba.js",
+    "static/media/footer-bg.jpg": "/tmovie-app/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/tmovie.png": "/tmovie-app/static/media/tmovie.67797e942e59deb68592.png",
+    "index.html": "/tmovie-app/index.html",
+    "main.a0a7ad6b.css.map": "/tmovie-app/static/css/main.a0a7ad6b.css.map",
+    "main.96f24dba.js.map": "/tmovie-app/static/js/main.96f24dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0a7ad6b.css",
+    "static/js/main.96f24dba.js"
+  ]
+}
